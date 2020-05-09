@@ -6,3 +6,7 @@ the quadratic formula, shown below:
 
 The portion of the expression under the square root sign is called the discriminant. If the discriminant is negative then the quadratic equation does not have any real roots. If the discriminant is 0, then the equation has one real root. Otherwise the equation has two real roots, and the expression must be evaluated twice, once using a plus sign, and once using a minus sign, when computing the numerator.
 Write a program that computes the real roots of a quadratic function. Your program should begin by prompting the user for the values of a, b and c. Then it should display a message indicating the number of real roots, along with the values of the real roots (if any).
+
+👇👇👇🤙
+
+[![Run on Repl.it](https://repl.it/badge/github/isennkubilay/Roots_of_a_Quadratic_Function)](https://repl.it/github/isennkubilay/Roots_of_a_Quadratic_Function)
